@@ -1,0 +1,9 @@
+#IDEA
+.idea/
+
+# Trash
+.DS_Store
+__pycache__
+.pytest_cache/
+venv/
+.coverage
